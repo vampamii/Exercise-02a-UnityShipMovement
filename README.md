@@ -1,20 +1,22 @@
-# Exercise02a-UnityShipMovement
-# Exercise-02a-Ship
+# Exercise-02c-Explosions-and-Enemy
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Created in Unity.
+A user-controlled ship in a space-shooter game. Explosions! Asteroids! Smaller asteroids! An alien ship!. Created in Godot.
 
 ## Implementation
-Triangle sprite
-Get key up and rotation by pressing keys A and D
-Reappearance of the object ones it goes off screen
+
+Created using [Unity 2022.3.17f1](https://unity.com/download)
+
+Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
 
 ## References
-Youtube videos
+None
 
 ## Future Development
-None
+Score, lives, game-start and game-end screens. In-game menu.
 
 ## Created by
 Amanda Sarmientos
